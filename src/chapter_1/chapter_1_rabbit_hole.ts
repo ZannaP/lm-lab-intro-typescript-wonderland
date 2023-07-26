@@ -42,7 +42,7 @@ export function enterHole(hole: Hole): void {
     return meetTheCheshireCat();
   } else {
     print(`WHAAAAT ❓🤯😅❓`);
-    print(`You can't find adventures there!!`);
+    print(`You can't find adventures there!`);
     return endAdventure();
   }
 }
